@@ -54,4 +54,4 @@ The system tracks total usage and prevents files being added if they exceed the 
 - Order by largest/smallest sized file
 
 ## Why did I make this?
-To practise Python programming while exploring how a simple file management system could be developed. The project has been expanded gradually to improve functionality, organisation, and usability.
+~~Because I wanted to~~ To practise Python programming while exploring how a simple file management system could be developed. The project has been expanded gradually to improve functionality, organisation, and usability.
